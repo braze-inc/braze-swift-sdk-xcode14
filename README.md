@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/braze-inc/braze-swift-sdk/releases">
-    <img src="https://badgen.net/badge/version/5.6.4/blue" alt="Version: 5.6.4">
+    <img src="https://badgen.net/badge/version/5.7.0/blue" alt="Version: 5.7.0">
   </a>
   <a href="#">
     <img src="https://badgen.net/badge/platforms/iOS%20%7C%20tvOS%20%7C%20Mac%20Catalyst/orange"
@@ -41,7 +41,7 @@ The following features are planned for development. To request new Swift SDK fea
 
 | Feature | Estimated Release |
 |---|---|
-| Objective-C Migration Library | November, 2022 |
+| Objective-C Migration Library | December, 2022 |
 
 ## Libraries
 
